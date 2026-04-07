@@ -16,7 +16,6 @@
 
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-thurubilli--sai--manoj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thurubilli-sai-manoj)
-[![GitHub](https://img.shields.io/badge/GitHub-ThurubilliSaiManoj2026-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThurubilliSaiManoj2026)
 [![Profile Views](https://komarev.com/ghpvc/?username=ThurubilliSaiManoj2026&style=for-the-badge&color=blueviolet&label=Profile+Views)](https://github.com/ThurubilliSaiManoj2026)
 
 </div>
@@ -31,9 +30,9 @@
 
 <img align="right" alt="AI Coding" width="340" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
 
-I am an **AI/ML Engineer and Full Stack Developer** with a deep focus on building production-ready intelligent systems. My work spans from **probabilistic AI content detection** and **multi-agent automation pipelines** to **edge AI vision systems** and **RAG-based enterprise assistants**.
+I am an **AI/ML Engineer and Full Stack Developer** with a deep focus on building production ready intelligent systems. My work spans from **probabilistic AI content detection** and **multi-agent automation pipelines** to **edge AI vision systems** and **RAG-based enterprise assistants**.
 
-- 🎓 **B.Tech (AI/ML)** — Completed March 2026 · Graduating **July 2026**
+- 🎓 **B.Tech (AI/ML)** — Completed March 2026
 - 🤖 Passionate about **real-world AI applications** and **data-driven systems**
 - 🔭 Currently exploring **LLM pipelines**, **multi-agent orchestration**, and **computer vision**
 - 🌱 Building production systems with **LangGraph**, **LLaMA**, **FastAPI**, and **ChromaDB**
@@ -254,7 +253,7 @@ I am an **AI/ML Engineer and Full Stack Developer** with a deep focus on buildin
 </div>
 
 **🎓 Academic**
-- B.Tech in Artificial Intelligence & Machine Learning — Completed **March 2026**, Graduation **July 2026**
+- B.Tech in Artificial Intelligence & Machine Learning — Completed **March 2026**
 - Specialized coursework in Deep Learning, NLP, Computer Vision, Data Structures & Algorithms, and Software Engineering
 
 **🤖 AI / ML Projects**
@@ -301,7 +300,6 @@ I am actively looking for **AI/ML Engineer**, **Software Developer**, and **Rese
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thurubilli-sai-manoj)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThurubilliSaiManoj2026)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thurubillisaimanoj@gmail.com)
 
 <br/>
