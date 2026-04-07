@@ -208,20 +208,7 @@ I am an **AI/ML Engineer and Full Stack Developer** specializing in production r
   <tr>
     <td colspan="2" valign="top">
 <div align="center">
-
-### 🎯 [Edge AI Multi-Camera Vision](https://github.com/ThurubilliSaiManoj2026/edge-ai-multicamera-vision)
-
-> Real-time multi-camera vision system optimized for **edge deployment**, combining lightweight model inference with high-throughput video stream processing across multiple simultaneous camera feeds on resource-constrained hardware.
-
-**Tech:** `Edge AI` `Computer Vision` `OpenCV` `Python` `Shell`
-
-![Edge AI](https://img.shields.io/badge/-Edge%20AI-0078D4?style=flat)
-![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnubash&logoColor=white)
-
-</div>
-</td>
-  </tr>
-
+  
 </table>
 
 ---
@@ -329,25 +316,14 @@ I am actively looking for **AI/ML Engineer**, **Software Developer**, and **Rese
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     SNAKE ANIMATION                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    SNAKE ANIMATION                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-### 🐍 Contribution Snake
+### 📊 Contribution Graph
 
 <picture>
-  <!-- Dark mode: uses the dark-themed SVG when the user has dark mode enabled -->
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/ThurubilliSaiManoj2026/ThurubilliSaiManoj2026/output/github-snake-dark.svg">
-  
-  <!-- Light mode: uses the standard green SVG for light mode users -->
-  <source 
-    media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/ThurubilliSaiManoj2026/ThurubilliSaiManoj2026/output/github-snake.svg">
-  
-  <!-- Fallback img tag in case the browser doesn't support the picture element -->
-  <img 
-    alt="github contribution grid snake animation" 
-    src="https://raw.githubusercontent.com/ThurubilliSaiManoj2026/ThurubilliSaiManoj2026/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThurubilliSaiManoj2026/ThurubilliSaiManoj2026/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThurubilliSaiManoj2026/ThurubilliSaiManoj2026/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ThurubilliSaiManoj2026/ThurubilliSaiManoj2026/output/github-snake.svg">
 </picture>
