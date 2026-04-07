@@ -204,11 +204,6 @@ I am an **AI/ML Engineer and Full Stack Developer** specializing in production r
 </td>
   </tr>
 
-  <!-- ── Row 3 : 1 project centred ─────────────────────────── -->
-  <tr>
-    <td colspan="2" valign="top">
-<div align="center">
-  
 </table>
 
 ---
@@ -320,7 +315,9 @@ I am actively looking for **AI/ML Engineer**, **Software Developer**, and **Rese
 <!--                    SNAKE ANIMATION                         -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-### 📊 Contribution Graph
+## 📊 Contribution Graph
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThurubilliSaiManoj2026/ThurubilliSaiManoj2026/output/github-snake-dark.svg">
