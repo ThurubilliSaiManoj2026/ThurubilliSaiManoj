@@ -32,13 +32,12 @@
 
 I am an **AI/ML Engineer and Full Stack Developer** with a deep focus on building production ready intelligent systems. My work spans from **probabilistic AI content detection** and **multi-agent automation pipelines** to **edge AI vision systems** and **RAG-based enterprise assistants**.
 
-- 🎓 **B.Tech (AI/ML)** — Completed March 2026
+- 🎓 **B.Tech (AI/ML)** — Completed April 2026
 - 🤖 Passionate about **real-world AI applications** and **data-driven systems**
 - 🔭 Currently exploring **LLM pipelines**, **multi-agent orchestration**, and **computer vision**
 - 🌱 Building production systems with **LangGraph**, **LLaMA**, **FastAPI**, and **ChromaDB**
 - 💡 Believer in **clean architecture**, **readable code**, and **explainable AI**
 - 🌍 Based in **India** · Open to **full-time roles**, **internships**, and **collaborations**
-- 📬 Reach me at: **[LinkedIn →](https://www.linkedin.com/in/thurubilli-sai-manoj)**
 
 <br clear="right"/>
 
@@ -132,18 +131,6 @@ I am an **AI/ML Engineer and Full Stack Developer** with a deep focus on buildin
   <tr>
     <td width="50%" valign="top">
 
-### 🏢 [Enterprise JARVIS — RAG AI Assistant](https://github.com/ThurubilliSaiManoj2026/enterprise-jarvis-rag-ai)
-
-> Enterprise AI assistant using **self-hosted LLaMA**, **Pinecone** vector database, and a full **RAG architecture** for intelligent document Q&A.
-
-**Tech:** `LLaMA` `Pinecone` `RAG` `Python` `FastAPI`
-
-![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat)
-![RAG](https://img.shields.io/badge/-RAG%20Architecture-7B2FBE?style=flat)
-
-</td>
-    <td width="50%" valign="top">
-
 ### 📊 [Image to Spreadsheet OCR](https://github.com/ThurubilliSaiManoj2026/image-to-spreadsheet-ocr)
 
 > End-to-end pipeline for **image-to-spreadsheet conversion** using OCR, table detection, and multiple deep learning models. Includes **Flask API** and a full web UI.
@@ -184,31 +171,6 @@ I am an **AI/ML Engineer and Full Stack Developer** with a deep focus on buildin
   <tr>
     <td width="50%" valign="top">
 
-### 📉 [Twitter Sentiment Analysis — NLP](https://github.com/ThurubilliSaiManoj2026/twitter-sentiment-analysis-nlp)
-
-> Classifies tweets as **positive, negative, or neutral** using Tweepy for extraction, advanced text vectorization, and classical ML + deep learning models.
-
-**Tech:** `Python` `NLTK` `Scikit-learn` `Tweepy` `Jupyter`
-
-![NLP](https://img.shields.io/badge/-NLP-3C6E71?style=flat)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
-</td>
-    <td width="50%" valign="top">
-
-### 🖼️ [Whiteboard Autocropper + Blur Detection](https://github.com/ThurubilliSaiManoj2026/whiteboard-autocropper-blur-detection)
-
-> Streamlit app using **OpenCV** for automated whiteboard detection, contour extraction, and perspective warping. Implements **Laplacian variance-based** blur detection.
-
-**Tech:** `Python` `OpenCV` `Streamlit` `Image Processing`
-
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-
-</td>
-  </tr>
-</table>
-
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -235,20 +197,6 @@ I am an **AI/ML Engineer and Full Stack Developer** with a deep focus on buildin
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThurubilliSaiManoj2026&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&hide_border=true)](https://github.com/ThurubilliSaiManoj2026)
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--              ACHIEVEMENTS & HIGHLIGHTS                     -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🏆 Achievements & Highlights
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ThurubilliSaiManoj2026&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10)](https://github.com/ThurubilliSaiManoj2026)
 
 </div>
 
@@ -300,7 +248,7 @@ I am actively looking for **AI/ML Engineer**, **Software Developer**, and **Rese
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thurubilli-sai-manoj)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thurubillisaimanoj@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saimanojturubilli@gmail.com)
 
 <br/>
 
