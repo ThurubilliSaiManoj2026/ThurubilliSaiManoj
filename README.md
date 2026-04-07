@@ -147,7 +147,7 @@ I am an **AI/ML Engineer and Full Stack Developer** specializing in production r
 
 <table>
 
-  <!-- ── Row 1 ─────────────────────────────────────────────── -->
+  <!-- ── Row 1 : 2 projects ────────────────────────────────── -->
   <tr>
     <td width="50%" valign="top">
 
@@ -176,7 +176,7 @@ I am an **AI/ML Engineer and Full Stack Developer** specializing in production r
 </td>
   </tr>
 
-  <!-- ── Row 2 ─────────────────────────────────────────────── -->
+  <!-- ── Row 2 : 2 projects ────────────────────────────────── -->
   <tr>
     <td width="50%" valign="top">
 
@@ -202,7 +202,12 @@ I am an **AI/ML Engineer and Full Stack Developer** specializing in production r
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 
 </td>
-    <td width="50%" valign="top">
+  </tr>
+
+  <!-- ── Row 3 : 1 project centred ─────────────────────────── -->
+  <tr>
+    <td colspan="2" valign="top">
+<div align="center">
 
 ### 🎯 [Edge AI Multi-Camera Vision](https://github.com/ThurubilliSaiManoj2026/edge-ai-multicamera-vision)
 
@@ -213,6 +218,7 @@ I am an **AI/ML Engineer and Full Stack Developer** specializing in production r
 ![Edge AI](https://img.shields.io/badge/-Edge%20AI-0078D4?style=flat)
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
+</div>
 </td>
   </tr>
 
@@ -228,10 +234,9 @@ I am an **AI/ML Engineer and Full Stack Developer** specializing in production r
 
 <div align="center">
 
-<a href="https://github.com/ThurubilliSaiManoj2026">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThurubilliSaiManoj2026&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThurubilliSaiManoj2026&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThurubilliSaiManoj2026&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_seconds=1800)
+&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThurubilliSaiManoj2026&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=1800)
 
 </div>
 
@@ -249,7 +254,7 @@ I am an **AI/ML Engineer and Full Stack Developer** specializing in production r
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ThurubilliSaiManoj2026&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8)](https://github.com/ThurubilliSaiManoj2026)
+![Trophy](https://github-profile-trophy.vercel.app/?username=ThurubilliSaiManoj2026&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 
 </div>
 
