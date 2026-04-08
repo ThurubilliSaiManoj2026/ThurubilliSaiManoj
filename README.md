@@ -23,10 +23,6 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      ABOUT ME                              -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 ## 🧠 About Me
 
 <img align="right" alt="AI Developer" width="330" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
@@ -43,10 +39,6 @@ I am an **AI/ML Engineer and Full Stack Developer** specializing in production r
 <br clear="right"/>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      TECH STACK                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🛠️ Tech Stack
 
@@ -104,10 +96,6 @@ I am an **AI/ML Engineer and Full Stack Developer** specializing in production r
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   WORK EXPERIENCE                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 ## 💼 Work Experience
 
 <table>
@@ -138,10 +126,6 @@ I am an **AI/ML Engineer and Full Stack Developer** specializing in production r
 </table>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   FEATURED PROJECTS                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🚀 Featured Projects
 
@@ -208,10 +192,6 @@ I am an **AI/ML Engineer and Full Stack Developer** specializing in production r
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   GITHUB STATS                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 ## 📊 GitHub Stats & Analytics
 
 <div align="center">
@@ -221,10 +201,6 @@ I am an **AI/ML Engineer and Full Stack Developer** specializing in production r
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--              ACHIEVEMENTS & HIGHLIGHTS                     -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🏆 Achievements & Highlights
 
@@ -250,10 +226,6 @@ I am an **AI/ML Engineer and Full Stack Developer** specializing in production r
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                 CURRENTLY EXPLORING                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 ## 🌱 Currently Exploring
 
 <div align="center">
@@ -266,10 +238,6 @@ I am an **AI/ML Engineer and Full Stack Developer** specializing in production r
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   CONNECT WITH ME                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 📬 Let's Connect
 
@@ -291,14 +259,14 @@ I am actively looking for **AI/ML Engineer**, **Software Developer**, and **Rese
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    SNAKE ANIMATION                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 ## 📊 Contribution Graph
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThurubilliSaiManoj2026/ThurubilliSaiManoj2026/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThurubilliSaiManoj2026/ThurubilliSaiManoj2026/output/github-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ThurubilliSaiManoj2026/ThurubilliSaiManoj2026/output/github-snake.svg">
 </picture>
+
+</div>
