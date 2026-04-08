@@ -216,27 +216,7 @@ I am an **AI/ML Engineer and Full Stack Developer** specializing in production r
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThurubilliSaiManoj2026&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_seconds=1800)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThurubilliSaiManoj2026&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=1800)
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ThurubilliSaiManoj2026&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e)](https://github.com/ThurubilliSaiManoj2026)
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThurubilliSaiManoj2026&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&hide_border=true)](https://github.com/ThurubilliSaiManoj2026)
-
-</div>
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=ThurubilliSaiManoj2026&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 
 </div>
 
